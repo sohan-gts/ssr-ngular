@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ssr-ngular';
+  constructor(){
+
+    console.log('hello there');
+
+    
+  }
+
 }
